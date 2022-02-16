@@ -3,6 +3,7 @@ Welcome to the CF homepage
 
 **CF** is an open source tool for a better discovery and application XP. 
 
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
@@ -10,10 +11,29 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
+Welcome + ToC
 --------
 
-.. toctree::
+Overview
+--------
+Problem
+Overview of the Solution
+About dotorg
 
-   usage
-   api
+Who is CF for?
+--------
+
+Getting Started for Developers
+--------
+
+Tutorials for Users
+--------
+
+Product Roadmap
+--------
+
+Impact and Use Cases
+--------
+
+FAQ
+--------
